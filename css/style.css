@@ -43,6 +43,7 @@ nav {
 
 .card-container {
   flex-direction: column;
+  margin-top: 50px;
 }
 
 .hero-image {
